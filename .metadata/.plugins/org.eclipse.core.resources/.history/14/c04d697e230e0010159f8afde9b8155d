@@ -1,0 +1,5 @@
+package com.shivaji.entities;
+
+public class Hotel {
+
+}

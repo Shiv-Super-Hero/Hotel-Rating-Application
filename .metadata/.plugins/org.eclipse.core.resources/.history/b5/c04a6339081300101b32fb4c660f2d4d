@@ -1,0 +1,5 @@
+package com.shivaji.models;
+
+public class AuthResponse {
+
+}

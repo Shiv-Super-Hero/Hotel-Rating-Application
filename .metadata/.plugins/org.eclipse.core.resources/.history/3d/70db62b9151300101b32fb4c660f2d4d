@@ -1,0 +1,14 @@
+package com.shivaji.service.interceptor;
+
+import feign.RequestInterceptor;
+import feign.RequestTemplate;
+
+public class FeignClassInterceptor implements RequestInterceptor {
+
+	@Override
+	public void apply(RequestTemplate template) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

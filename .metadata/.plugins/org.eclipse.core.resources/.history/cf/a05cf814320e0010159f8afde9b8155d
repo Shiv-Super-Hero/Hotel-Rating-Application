@@ -1,0 +1,5 @@
+package com.shivaji.external.service;
+
+public interface HotelService {
+
+}

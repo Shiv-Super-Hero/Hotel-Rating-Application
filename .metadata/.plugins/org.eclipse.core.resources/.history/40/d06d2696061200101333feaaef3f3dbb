@@ -1,0 +1,7 @@
+package com.shivaji.controller;
+
+@RestController
+@RequestMapping("/staffs")
+public class StaffController {
+	
+}
